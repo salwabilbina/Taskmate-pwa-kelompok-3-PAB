@@ -1,8 +1,14 @@
-# 📚 TaskMate – Student Task Management
+<h1 align="center">📚 TaskMate – Student Task Management</h1>
 
-Aplikasi web untuk membantu mahasiswa mengelola
-tugas kuliah dengan lebih mudah dan teratur.
+<p align="center">
+  Aplikasi Web untuk Mengelola Tugas Mahasiswa
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Vite-6-purple?logo=vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-blue?logo=tailwindcss" />
+</p>
 
 
 <img width="1917" height="970" alt="localhost4173" src="https://github.com/user-attachments/assets/7a863148-69bd-479d-b8af-0684f71c434c" />
