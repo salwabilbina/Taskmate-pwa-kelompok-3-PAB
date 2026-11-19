@@ -11,6 +11,49 @@
 </p>
 
 
+## 📸 Tampilan Halaman
+
+| Halaman | Bagian | Fungsi |
+|---|---|---|
+| Dashboard | Header | Menampilkan nama aplikasi TaskMate |
+| Dashboard | Sapaan Mahasiswa | Menampilkan sapaan dan deskripsi aplikasi |
+| Dashboard | Total Tugas | Menampilkan jumlah seluruh tugas |
+| Dashboard | Belum Selesai | Menampilkan jumlah tugas yang belum dikerjakan |
+| Dashboard | Selesai | Menampilkan jumlah tugas yang sudah selesai |
+| Daftar Tugas | Tombol Tambah | Membuka form untuk menambahkan tugas |
+| Daftar Tugas | Filter Status | Menyaring tugas berdasarkan semua, belum selesai, dan selesai |
+| Daftar Tugas | Filter Kategori | Menyaring tugas berdasarkan kategori |
+| Daftar Tugas | Informasi Tugas | Menampilkan judul, deskripsi, kategori, dan deadline |
+| Daftar Tugas | Tombol Edit | Mengubah informasi tugas |
+| Daftar Tugas | Tombol Hapus | Menghapus tugas |
+| Daftar Tugas | Status Tugas | Mengubah status tugas selesai atau belum selesai |
+
+### 1. Dashboard
+
+Menampilkan halaman utama aplikasi TaskMate yang berisi statistik tugas dan daftar tugas mahasiswa.
+
+![Dashboard TaskMate](screenshots/dashboard.png)
+
+### 2. Form Tambah Tugas
+
+Digunakan untuk menambahkan tugas baru ke dalam daftar tugas.
+
+![Tambah Tugas](screenshots/tambah-tugas.png)
+
+### 3. Fitur Filtering
+
+Digunakan untuk menyaring tugas berdasarkan status dan kategori.
+
+![Filtering Tugas](screenshots/filter-tugas.png)
+
+### 4. Form Edit Tugas
+
+Digunakan untuk mengubah informasi tugas yang sudah ditambahkan.
+
+![Edit Tugas](screenshots/edit-tugas.png)
+
+
+
 <img width="1917" height="970" alt="localhost4173" src="https://github.com/user-attachments/assets/7a863148-69bd-479d-b8af-0684f71c434c" />
 <img width="1916" height="968" alt="localhost;5173" src="https://github.com/user-attachments/assets/b7dc8e15-7636-45f9-8499-d0d6c47b1b94" />
 https://taskmate-pwa-kelompok-3-pab.vercel.app
