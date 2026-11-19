@@ -65,14 +65,9 @@ https://taskmate-pwa-kelompok-3-pab.vercel.app
 
 <div align="center">
 
-# 📚 TaskMate
-### Student Task Management
 
-Aplikasi Web untuk Mengelola Tugas Mahasiswa
 
-**Dibuat untuk memenuhi tugas project perkuliahan**
-
-### 👥 Kelompok [Nama Kelompok]
+### 6. Anggota Kelompok
 
 | No | Nama Anggota | NIM |
 |---|---|---|
