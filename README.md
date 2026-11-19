@@ -11,7 +11,7 @@
 </p>
 
 
-## 📸 Tampilan Halaman
+## Tampilan Halaman
 
 | Halaman | Bagian | Fungsi |
 |---|---|---|
@@ -55,15 +55,53 @@ Digunakan untuk mengubah informasi tugas yang sudah ditambahkan.
 
 <img width="1887" height="901" alt="edit" src="https://github.com/user-attachments/assets/3dc47a33-0b33-459f-9cea-80d12142ea31" />
 
+### 5. Struktur Proyek
+
+
+taskmate-pwa/
+│
+├── public/
+│   ├── favicon.svg
+│   └── icons.svg
+│
+├── src/
+│   ├── assets/
+│   │   ├── hero.png
+│   │   ├── react.svg
+│   │   └── vite.svg
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── db.js
+│   ├── index.css
+│   └── main.jsx
+│
+├── dist/
+│   ├── assets/
+│   ├── favicon.svg
+│   ├── icons.svg
+│   ├── index.html
+│   ├── manifest.webmanifest
+│   ├── registerSW.js
+│   ├── sw.js
+│   └── workbox-9c191d2f.js
+│
+├── index.html
+├── eslint.config.js
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── .gitignore
+└── README.md
 
 
 
-### 5. Link Vercel
+### 6. Link Vercel
 
 https://taskmate-pwa-kelompok-3-pab.vercel.app
 
 
-### 6. Anggota Kelompok
+### 7. Anggota Kelompok
 
 | No | Nama Anggota | NIM |
 |---|---|---|
