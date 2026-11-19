@@ -55,10 +55,9 @@ Digunakan untuk mengubah informasi tugas yang sudah ditambahkan.
 
 <img width="1887" height="901" alt="edit" src="https://github.com/user-attachments/assets/3dc47a33-0b33-459f-9cea-80d12142ea31" />
 
-
-<CodeBlock language="markdown" editable>
 ## 5. Struktur Proyek
 
+```text
 taskmate-pwa/
 ├── public/
 │   ├── favicon.svg
@@ -93,8 +92,7 @@ taskmate-pwa/
 ├── vite.config.js
 ├── .gitignore
 └── README.md
-
-</CodeBlock>
+```
 
 ### 6. Link Vercel
 
