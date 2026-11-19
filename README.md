@@ -15,18 +15,18 @@
 
 | Halaman | Bagian | Fungsi |
 |---|---|---|
-| Dashboard | Header | Menampilkan nama aplikasi TaskMate |
-| Dashboard | Sapaan Mahasiswa | Menampilkan sapaan dan deskripsi aplikasi |
+| Dashboard | Header | Menampilkan nama aplikasi TaskMate dan Student Task Management |
+| Dashboard | Sapaan Mahasiswa | Menampilkan sapaan kepada pengguna |
 | Dashboard | Total Tugas | Menampilkan jumlah seluruh tugas |
-| Dashboard | Belum Selesai | Menampilkan jumlah tugas yang belum dikerjakan |
+| Dashboard | Belum Selesai | Menampilkan jumlah tugas yang belum selesai |
 | Dashboard | Selesai | Menampilkan jumlah tugas yang sudah selesai |
-| Daftar Tugas | Tombol Tambah | Membuka form untuk menambahkan tugas |
-| Daftar Tugas | Filter Status | Menyaring tugas berdasarkan semua, belum selesai, dan selesai |
+| Daftar Tugas | Tombol Tambah | Membuka form untuk menambahkan tugas baru |
+| Daftar Tugas | Filter Status | Menyaring tugas berdasarkan Semua, Belum Selesai, dan Selesai |
 | Daftar Tugas | Filter Kategori | Menyaring tugas berdasarkan kategori |
 | Daftar Tugas | Informasi Tugas | Menampilkan judul, deskripsi, kategori, dan deadline |
+| Daftar Tugas | Status Tugas | Menampilkan tanda tugas selesai atau belum selesai |
 | Daftar Tugas | Tombol Edit | Mengubah informasi tugas |
 | Daftar Tugas | Tombol Hapus | Menghapus tugas |
-| Daftar Tugas | Status Tugas | Mengubah status tugas selesai atau belum selesai |
 
 ### 1. Dashboard
 
@@ -61,10 +61,6 @@ Digunakan untuk mengubah informasi tugas yang sudah ditambahkan.
 ### 5. Link Vercel
 
 https://taskmate-pwa-kelompok-3-pab.vercel.app
-
-
-<div align="center">
-
 
 
 ### 6. Anggota Kelompok
