@@ -32,13 +32,15 @@
 
 Menampilkan halaman utama aplikasi TaskMate yang berisi statistik tugas dan daftar tugas mahasiswa.
 
-![Dashboard TaskMate](screenshots/dashboard.png)
+<img width="1913" height="962" alt="tambahtugas" src="https://github.com/user-attachments/assets/dc39b844-990b-42ec-ab41-d996f3e402dd" />
+<img width="1917" height="910" alt="dashba" src="https://github.com/user-attachments/assets/51b53600-2eda-45ce-8a45-fbae65f3d44b" />
+
 
 ### 2. Form Tambah Tugas
 
 Digunakan untuk menambahkan tugas baru ke dalam daftar tugas.
 
-![Tambah Tugas](screenshots/tambah-tugas.png)
+![Uploading tambahtugas.png…]()
 
 ### 3. Fitur Filtering
 
